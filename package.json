@@ -11,6 +11,7 @@
     "predeploy": "pnpm run build",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://github.com/ketyykes/pwa-react-practice",
   "dependencies": {
     "gh-pages": "^6.3.0",
     "react": "^19.0.0",
